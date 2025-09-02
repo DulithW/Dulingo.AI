@@ -23,14 +23,14 @@
 
 ### 🤖 AI-Powered Tools
 
-| Tool | Description | Premium Feature |
-|------|-------------|-----------------|
-| 📝 **Article Generator** | Create full-length articles by providing title and desired length | ✅ |
-| 💡 **Blog Title Generator** | Generate engaging blog titles from keywords and categories | ✅ |
-| 🎨 **Image Generator** | Create unique images instantly from text prompts | ✅ |
-| 🖼️ **Background Remover** | Remove backgrounds from images with AI precision | ✅ |
-| ✂️ **Object Remover** | Intelligently remove specific objects from images | ✅ |
-| 📄 **Resume Analyzer** | Get comprehensive AI analysis of resume content | ✅ |
+| Tool | Description | 
+|------|-------------|
+| 📝 **Article Generator** | Create full-length articles by providing title and desired length |
+| 💡 **Blog Title Generator** | Generate engaging blog titles from keywords and categories | 
+| 🎨 **Image Generator** | Create unique images instantly from text prompts | 
+| 🖼️ **Background Remover** | Remove backgrounds from images with AI precision | 
+| ✂️ **Object Remover** | Intelligently remove specific objects from images | 
+| 📄 **Resume Analyzer** | Get comprehensive AI analysis of resume content | 
 
 ### 🔐 Core Platform Features
 
